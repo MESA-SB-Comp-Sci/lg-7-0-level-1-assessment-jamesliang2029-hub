@@ -10,7 +10,7 @@ What is the difference between a static unit like `px` and a responsive unit lik
 
 Describe what makes a unit responsive and why that matters when building a website.
 
-
+The static unit 'px' would stay the same across different platforms and devices meaning even if the text is normal for a pc it'll be large for a phone. A responsive unit like '%' or 'vh' would make the text proportional to the browser and it'll be scaled appropriatly
 
 
 
@@ -35,7 +35,7 @@ Look at these two CSS rules:
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
 
-
+In a small screen, the first rule would make the image comically too wide for it be fully seen while the 2nd rule lets the user to fully see the image that fits in 50% of the screen.
 
 
 
